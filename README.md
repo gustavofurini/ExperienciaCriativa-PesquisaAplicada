@@ -1,6 +1,8 @@
 # ExperienciaCriativa-PesquisaAplicada
 ---------------------------------------------------------------------------------------------------------
-# Extensão do protótipo do sistema de semáforos com a inclusão de dois botões para travessia de pedestres 
+# Sistema de semaforos
+
+Extensão do protótipo do sistema de semáforos com a inclusão de dois botões para travessia de pedestres
 
 • O circuito deve incluir um par de LEDs (um vermelho e outro verde) para 
 representar o semáforo de pedestre da via principal e outro par de LEDs 
@@ -36,3 +38,4 @@ iniciado. Por exemplo, com TVP igual a 10 segundos, o semáforo de
 pedestres pode ficar verde por 6 segundos e, então, piscar por mais 4 
 segundos. Sejam criativos! 
 ---------------------------------------------------------------------------------------------------------
+# M
